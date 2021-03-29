@@ -1,2 +1,6 @@
-# Lab1Web
-Praktikum 1 Pemrograman Web | Universitas Pelita Bangsa | Dosen : Agung Nugroho,S.Kom.,M.Kom.
+# Praktikum 1 - Pemrograman Web
+# Universitas Pelita Bangsa
+
+## Veno Setyoaji Wiratama
+## 311910363
+## TI.19.A.2
