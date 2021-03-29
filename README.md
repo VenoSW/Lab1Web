@@ -1,9 +1,10 @@
 # Praktikum 1 - Pemrograman Web
-
-##### Veno Setyoaji Wiratama
-##### 311910363
-##### TI.19.A.2
-##### Universitas Pelita Bangsa
+```
+Veno Setyoaji Wiratama
+311910363
+TI.19.A.2
+Universitas Pelita Bangsa
+```
 
 ## LANGKAH 1
 ### Buka VS Code dan buat file HTML baru. Setelah itu buat struktur dasar HTML
@@ -81,3 +82,22 @@
     <hr>
 ```
 ![LANGKAH 8 menambahkan hyperlink](https://user-images.githubusercontent.com/22215113/112780875-ef939f00-9073-11eb-8f6f-dd163b2dd2ff.png)
+
+## LANGKAH 7
+### Membuat halaman ke 2 yg akan terhubung dengan halaman pertama menggunakana Hyperlink.
+```
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tag HTML Dasar</title>
+</head>
+<body>
+
+<h1>Halaman Ke 2</h1>
+
+<p align="justify">Ini adalah halaman kedua.</p>
+
+</body>
+</html>
+```
+![LANGKAH 9 Halaman ke 2](https://user-images.githubusercontent.com/22215113/112782818-1b188880-9078-11eb-963f-27092cb6ef5a.png)
