@@ -109,15 +109,21 @@ Ada error ketika saya salah penulisan Heading <h1> tidak ditutup dengan </h1> ja
 ```
 2. Apa perbedaan dari tag `<p>` dengan tag `<br>` berikan penjelasannya!
 ```
-Dari hasil praktek saya sendiri, perbedaan  tag <br> jarak enter nya lebih jauh 1 line dibandingkan dengan tag <p> yg jarak enter nya tidak terlalu jauh.
+Dari hasil praktek saya sendiri, perbedaan  tag <br> jarak enter nya lebih jauh 1 line dibandingkan
+dengan tag <p> yg jarak enter nya tidak terlalu jauh.
 ```
 3. Apa perbedaan atribut `title` dan `alt` pada tag `<img>`, berikan penjelasannya!
 ```
-atribut tittle pada tag <img> digunakan untuk memberi judul pada gambar yg disisipkan, sedangkan atribut alt pada tag <img> digunakan untuk memberi deskripsi pada gambar yg disisipkan
+atribut tittle pada tag <img> digunakan untuk memberi judul pada gambar yg disisipkan, sedangkan
+atribut alt pada tag <img> digunakan untuk memberi deskripsi pada gambar yg disisipkan
 ```
 4. Untuk mengatur ukuran gambar, digunakan atribut `width` dan `height`. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
 ```
-Untuk mempertahankan proporsi gambar, namun tetap membuat gambar menjadi besar/kecil, cantumkan hanya salah satu atribut saja (width saja atau height saja, namun tidak keduanya). Misalkan jika kita menetapkan atribut width=200px (tanpa mencantumkan height), maka web browser akan menampilkan gambar dengan lebar 200px, dan menghitung secara otomatis tinggi gambar agar gambar tetap proporsional.
+Untuk mempertahankan proporsi gambar, namun tetap membuat gambar menjadi besar/kecil, cantumkan
+hanya salah satu atribut saja (width saja atau height saja, namun tidak keduanya). Misalkan
+jika kita menetapkan atribut width=200px (tanpa mencantumkan height), maka web browser akan
+menampilkan gambar dengan lebar 200px, dan menghitung secara otomatis tinggi gambar agar gambar
+tetap proporsional.
 ```
 5. Pada `link` tambahkan atribut `target` dengan nilai atribut bervariasi (`_blank`, `_self`, `_top`, `_parent`), apa yang terjadi pada masing-masing nilai antribut tersebut?
 ```
